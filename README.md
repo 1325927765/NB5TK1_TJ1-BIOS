@@ -9,6 +9,6 @@
 ### 刷入命令
 
 ```bash
-FPTW64.exe -f nb50tj1-b10718-unlocked-chipset-1080p-obsdian.fd -bios
+FPTW64.exe -f 需要刷入的文件 -bios
 ```
 
