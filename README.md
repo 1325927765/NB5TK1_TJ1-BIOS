@@ -9,6 +9,6 @@
 ### 刷入命令
 
 ```bash
-FPTW64.exe -f 需要刷入的文件 -bios
+FPTW64.exe -f 需要刷入的文件名 -bios
 ```
 
